@@ -25,33 +25,32 @@ body {
 
 .box-container {
     background-color: var(--White);
-    padding: 25px 25px 60px 25px;
-    margin: 250px 0px;
-    border-radius: 40px;
+    padding: 15px 15px 35px 15px;
+    margin: 140px 0px 0px 0;
+    border-radius: 16px;
 }
 
 img {
-    width: 450px;
-    border-radius: 20px;
+    width: 250px;
+    border-radius: 10px;
 }
 
 h1 {
-    padding: 30px 0px;
-    font-size: 35px;
+    padding: 16px 0px;
+    font-size: 20px;
 
 }
 
 p {
-    font-size: 24px;
+    font-size: 15px;
     color: var(--Grayishblue);
 
 }
 
 .text-content {
-    margin-left: 23px;
-    width: 400px;
+    margin-left: 10px;
+    width: 230px;
     display: flex;
-    font-size: 30px;
     flex-direction: column;
     align-items: center;
     text-align: center;
