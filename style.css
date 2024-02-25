@@ -21,12 +21,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    min-height: 100vh;
 }
 
 .box-container {
     background-color: var(--White);
     padding: 15px 15px 35px 15px;
-    margin: 140px 0px 0px 0;
+    margin: 40px 0px 0px 0;
     border-radius: 16px;
 }
 
